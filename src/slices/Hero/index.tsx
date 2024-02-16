@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
-import { Content } from "@prismicio/client";
+import { Content, KeyTextField } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
 import { Shapes } from "@/slices/Hero/Shapes";
 import { gsap } from "gsap";
